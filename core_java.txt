@@ -1,0 +1,13 @@
+1. Given an integer array {1,0,3,0,5,0,7,0,9}
+   write a program to move all zero elements to the end of an array while maintaining the relative order of the non-zero elements.
+   Don't use another array to solve this program.   
+2. Difference between final, finally and finalize.
+3. How does Garbage Collection work in Java? How you can do it programetically?
+4. String vs. StringBuilder vs. StringBuffer. When to use these? Explain with usecases.
+5. Difference between HashMap, LinkedHashMap & ConcurrentHashMap. When to use these? Explain with usecases.
+6. Question on wait(), notify(), notifyAll(), join()
+7. Question on Executor service, Threadpool, Future, Callable vs Runnable etc.
+8. Volatile vs transient.
+9. Practice some programs using Lambda Expressions, functional interfaces, sealed classes, Stream Operations (filter, map, reduce, collect, forEach)
+10. Practice some questions on Arrays, Linked Lists, Sorting & Searching (Binary search)
+11. Given a string "Java is amazing", Sort words in a sentence based on their length.
