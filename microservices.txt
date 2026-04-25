@@ -1,0 +1,9 @@
+1. You got the requirment from client to design a system "ABC", would you recommend a monolithic or a microservices architecture? Justify your choice.
+2. What are all design patterns you used in microservices?
+3. Some scenario questions like if service "C" fails and service "B" is waiting for service "C" response then what will happen? How to handle such cases?
+4. What are all security mechanism you have used to secure your microservices based applications?
+5. How to design/implement RBACK system?
+6. Some question on Kubernates, Docker, Containerization, nodes, pods etc.
+7. Some questions on logging, tracing, matrices etc.
+8. what is Canary Deployment?
+9. Questions on Loadbalancer, types of loadbalancer, NLB vs ALB
