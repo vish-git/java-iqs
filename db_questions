@@ -1,0 +1,12 @@
+ Practice some questions on SQL JOINs (INNER, LEFT, RIGHT, FULL OUTER).
+2. Hibernate mappings like one-to-one, one-to-many. Learn how to design a system with this type of relations.
+3. Some performance related questions and design patterns like Shrading , Partition , replication , consistent hashing, CQRS etc.
+
+Kafka / Event driven / Asynchronous process :
+1. Explain about Saga Pattern and types of Sagas.
+2. Kafka components and their internal operations.
+3. Consumer vs Consumer Group.
+4. Queue vs Topic
+5. What is partition means in Topic and what it solves?
+6. How to scale-up kafka incase load increases unexpectedly or in some special business peak hours.
+7. If kafka brokers went down for some reason how you will make your system communicate or functional. What strategy you will follow?
