@@ -1,0 +1,8 @@
+ Questions on Dependency Injection (DI) / Inversion of Control (IoC)
+2. Question on Spring Beans: Lifecycle & scopes.
+3. How to configure multiple datasources in spring? May ask to write program snippets.
+4. Various annotations os spring and their use.
+5. Difference between Application Context and BeanFactory?
+6. How to handle global exceptions in spring?
+7. Transactions issolation levels
+8. How to achive Atomic or ACID transactions?
