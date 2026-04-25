@@ -1,0 +1,2 @@
+Question will come to design or show/draw system architectural diagram using any of the tools like visio, draw.io
+2. Must practice to design a Banking system for account opening process or loan processing.
